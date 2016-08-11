@@ -8,7 +8,8 @@
 #include <unistd.h>
 
 // Simplifed xv6 shell.
-
+// This seems to be an older version of the homework...
+//
 #define MAXARGS 10
 
 // All commands have at least a type. Have looked at the type, the code
